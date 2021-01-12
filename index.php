@@ -43,10 +43,11 @@
 				<div class="content">
 					<div class="inner">
 						<header>
-							<h2><a href="generic.html">Website development</a></h2>
-							<p class="info">Fast and responsive <a href="#">websites</a></p>
+							<h2><a href="web-development-kenya-nairobi.html">Website development</a></h2>
+							<p class="info">Fast and responsive <a href="web-development-kenya-nairobi.html">websites</a></p>
 						</header>
-						<p>For creating an optimum web experience, we have developers for every top web development technology. Our forte is creating scalable and futuristic websites, using the top web development technologies, and best web development practices.</p>
+						<p>For creating user friendly web experiences, our developers keep up to date with latest web development technologies and trends. 
+						Our pride is in creating scalable and futuristic websites, using the top web development technologies, and best web development practices.</p>
 						<ul class="actions">
 							<li><a href="web-development-kenya-nairobi.html" class="button alt">Read More</a></li>
 						</ul>
@@ -176,9 +177,9 @@
 		<!-- Footer -->
 			<footer id="footer">
 				<ul class="icons">
-					<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-					<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-					<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+					<li><a href="https://twitter.com/Tech_GenieK" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+					<li><a href="https://www.facebook.com/TechGenieK/" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+					<li><a href="https://www.instagram.com/techgenie.it.solutions/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
 				</ul>
 				<div class="copyright">
 					&copy; TGK. All right limited to: <a href="https://techgenie.co.ke"></a>. 
